@@ -45,11 +45,12 @@ The RFID-Based Out-Pass System is designed to automate the entry management proc
 ## Working principle of RFID
 ![270d5cda-f49b-4e03-a723-32deaa07b7e6](https://github.com/deepak99975/RFID-Based-Out-Pass-System/assets/136265214/3b8ba787-dbea-4634-b457-6a395102eb51)
 
+## Result
+![IMG_20191013_180759-Deepak](https://github.com/deepak99975/RFID-Based-Out-Pass-System/assets/136265214/60cd4f86-325e-4613-a854-454a48a50297)
+![RFID_Based_OUT_System_](https://github.com/deepak99975/RFID-Based-Out-Pass-System/assets/136265214/977d313e-c8ea-4880-93cc-395c2154b045)
+
 ## Contributors
 - [Deepak Joshi]([https://github.com/your-username](https://github.com/deepak99975)) - Project Lead and Developer
-
-## License
-This project is licensed under the [MIT License](LICENSE), which allows for open-source sharing and modification.
 
 ## Acknowledgments
 - Special thanks to [Department of ECE - NIET] for supporting this project.
