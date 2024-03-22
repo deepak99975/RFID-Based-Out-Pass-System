@@ -28,11 +28,22 @@ The RFID-Based Out-Pass System is designed to automate the entry management proc
 5. Power up the system and ensure proper communication between components.
 6. Test the RFID detection and communication functionality.
 
+## Testing and Calibration:
+1. Power up the system and ensure proper communication between components.
+2. Test RFID detection functionality by placing RFID tags/cards near the RFID reader.
+3. Verify access control rules and system responses for authorized and unauthorized access attempts
+
 ## Usage
 1. Place RFID cards/tags near the RFID reader to detect entry.
 2. The system will process the RFID data and allow authorized access based on predefined rules.
 3. Monitor system logs or debug output for real-time status and events.
 4. Customize system behavior and access rules as needed in the code.
+
+## Circuit Diagram
+![a583e87b-19dd-4f14-b523-278b5d83a5cb](https://github.com/deepak99975/RFID-Based-Out-Pass-System/assets/136265214/e055fc22-9dc1-42a8-ae56-3a12d68eb91c)
+
+## Working principle of RFID
+![270d5cda-f49b-4e03-a723-32deaa07b7e6](https://github.com/deepak99975/RFID-Based-Out-Pass-System/assets/136265214/3b8ba787-dbea-4634-b457-6a395102eb51)
 
 ## Contributors
 - [Deepak Joshi]([https://github.com/your-username](https://github.com/deepak99975)) - Project Lead and Developer
