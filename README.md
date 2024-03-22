@@ -18,7 +18,7 @@ The RFID-Based Out-Pass System is designed to automate the entry management proc
 ## Software Requirements
 - Arduino IDE for programming Atmega 328.
 - Lua-based IDE for programming NodeMCU.
-- Serial communication software for debugging (e.g., PuTTY, Arduino Serial Monitor).
+- Serial communication software for debugging (e.g.Arduino Serial Monitor).
 
 ## Installation and Setup
 1. Connect the RFID module to the Atmega 328 microcontroller following the hardware wiring diagram.
